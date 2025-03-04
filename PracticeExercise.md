@@ -1,5 +1,8 @@
-
-# Pertanyaan dan Jawaban Sistem Operasi
+# SisOp-2025
+#Nama : Hafizh Hamas Muntazar
+#NRP : 3124500060
+#Kelas :D3 IT B
+# Sistem Operasi
 
 ## 1.1 Tiga Tujuan Utama Sistem Operasi  
 1. **Manajemen Sumber Daya:** Mengalokasikan CPU, memori, dan perangkat I/O secara efisien.  
