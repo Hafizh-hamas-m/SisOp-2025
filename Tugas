@@ -1,5 +1,7 @@
-# Penjelasan Multiprogramming, Multitasking, Fungsi OS, dan Virtualisasi Container
-
+# SisOp-2025
+#Nama : Hafizh Hamas Muntazar
+#NRP : 3124500060
+#Kelas :D3 IT B
 ## 1. Perbedaan Multiprogramming vs Multitasking
 - **Multiprogramming**:  
   Teknik di mana beberapa program disimpan di memori utama secara bersamaan dan prosesor mengeksekusi program secara bergantian. Tujuannya adalah memaksimalkan penggunaan CPU dengan mengurangi waktu idle (menganggur).  
