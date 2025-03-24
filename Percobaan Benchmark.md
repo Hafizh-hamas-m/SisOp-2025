@@ -1,4 +1,6 @@
-
+#Nama : Hafizh Hamas Muntazar
+#NRP : 3124500060
+#Kelas :D3 IT B
 ## 📌 Cara Instalasi & Penggunaan
 
 ### **1. Build Binaries**
