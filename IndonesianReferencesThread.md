@@ -1,3 +1,6 @@
+#Nama : Hafizh Hamas Muntazar
+#NRP : 3124500060
+#Kelas :D3 IT B
 # Cetak 1 2 3 Secara Berurutan Menggunakan `pthread` (C Language)
 
 Program ini menggunakan tiga thread untuk mencetak angka `1`, `2`, dan `3` secara bergiliran dan terus-menerus. Sinkronisasi dilakukan menggunakan `pthread_mutex_t` dan `pthread_cond_t`.
