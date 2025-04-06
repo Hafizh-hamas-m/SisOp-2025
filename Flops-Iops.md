@@ -1,4 +1,4 @@
-# Laporan Pengujian FLOPS dan IOPS pada WSL 2
+# Laporan Pengujian FLOPS dan IOPS pada WSL 
 
 ## 📌 Identitas
 - **Nama**: [Nama Mahasiswa]  
