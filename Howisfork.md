@@ -1,3 +1,6 @@
+#Nama : Hafizh Hamas Muntazar
+#NRP : 3124500060
+#Kelas :D3 IT B
 # 🚀 Pemahaman dan Contoh `fork()` di Bahasa C
 
 Dokumentasi ini menjelaskan cara kerja `fork()` dalam bahasa C untuk membuat proses anak (child process) dari proses induk (parent process), lengkap dengan contoh kode dan penjelasan langkah-langkahnya.
