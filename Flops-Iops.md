@@ -1,10 +1,9 @@
 # Laporan Pengujian FLOPS dan IOPS pada WSL 
 
 ## 📌 Identitas
-- **Nama**: [Nama Mahasiswa]  
-- **NIM**: [Nomor Induk Mahasiswa]  
-- **Mata Kuliah**: [Nama Mata Kuliah]  
-- **Dosen**: [Nama Dosen]
+#Nama : Hafizh Hamas Muntazar
+#NRP : 3124500060
+#Kelas :D3 IT B
 
 ---
 
