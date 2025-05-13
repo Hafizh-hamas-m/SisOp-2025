@@ -1,16 +1,7 @@
-# Tugas 6 Sistem Operasi  
-**Topik: Thread 3, Eksperimen Forking, Soal Nomor 3 & 4 (Referensi Bahasa Indonesia)**
-
-**Nama:** Firas Rasendriya Athaillah  
-**NRP:** 3124500042  
-**Kelas:** D3 IT B
-**Dosen:** Dr. Ferry Astika Saputra, S.T., M.Sc  
-
-**PROGRAM STUDI D3 TEKNIK INFORMATIKA**  
-**POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)**  
-**TAHUN 2024**
-
----
+# Sistem Operasi  
+#Nama : Hafizh Hamas Muntazar
+#NRP : 3124500060
+#Kelas :D3 IT B 
 
 ## 1. Kompilasi Thread 3
 
